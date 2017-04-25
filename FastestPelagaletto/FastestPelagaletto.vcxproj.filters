@@ -5,9 +5,6 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tga;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="InfiniteMatches">
-      <UniqueIdentifier>{7e35a9cd-5a93-450d-b25f-fd9c1e85229d}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp" />
@@ -18,10 +15,5 @@
     <ClInclude Include="FastestPelagaletto.h" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="targetver.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="..\..\..\..\..\Desktop\0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 3 0 3 0 0  - 0 0 0 2 0 2 0 1 2 0 3 0 2 0 3 1 0 0 1 0 .txt">
-      <Filter>InfiniteMatches</Filter>
-    </Text>
   </ItemGroup>
 </Project>
