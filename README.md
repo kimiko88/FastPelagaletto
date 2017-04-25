@@ -1,4 +1,4 @@
-FastestPelagaletto
+FastPelagaletto
 
 A C++ library to play pelagaletto
 
