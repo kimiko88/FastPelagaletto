@@ -10,10 +10,14 @@ PLAYER1 : 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 3 0 3 0 0
 
 PLAYER2 : 0 0 0 2 0 2 0 1 2 0 3 0 2 0 3 1 0 0 1 0
 
+In date: 2017-04-24T22:13:37.472Z
+
 Second found:
 
 PLAYER1 : 0 0 0 0 0 0 0 0 0 0 0 1 0 0 3 0 3 0 0 2
 
 PLAYER2 : 0 0 0 2 0 2 0 1 0 0 3 0 2 0 3 1 0 0 1 0
+
+In date: 2017-04-30T23:08:35.212Z
 
 Next goal play all the 200,000,000,000,000 and try to find an infinite match in Beggar-my-neighbour
